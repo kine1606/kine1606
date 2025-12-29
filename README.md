@@ -5,8 +5,8 @@ Hi, I'm Kien, a software engineer from VietNam 🇻🇳.
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loihnt05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="loihnt05's Stats" width="527"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kine1606&theme=react&show_icons=true&hide_border=true&layout=compact" alt="loihnt05's Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kine1606&theme=react&show_icons=true&hide_border=true&count_private=true" alt="My Stats" width="527"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kine1606&theme=react&show_icons=true&hide_border=true&layout=compact" alt="My Top Languages" width="400"/>
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kine1606&theme=github-dark-dimmed&custom_title=Superkid%20Activity%20Graph&hide_border=true)](https://github.com/kine1606/github-readme-activity-graph)
